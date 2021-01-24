@@ -24,11 +24,6 @@ Start your site quickly by using our built-in Setup Wizard to make your website 
 
 ![MovieAsap Easy One-Click Installation](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/onclick-install.png "MovieAsap Easy One-Click Installation")
 
-## Fully Responsive
-Works perfectly on all screen sizes and mobile devices.
-
-![MovieAsap Fully Responsive](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/fully-responsive.png "MovieAsap Fully Responsive")
-
 ## Automatic Theme Updates
 Stay up to date with the latest MovieAsap version automatically.
 
@@ -96,6 +91,9 @@ The theme comes with a detailed documentation with all the instructions you will
 
 ### Cross Browser Optimization
 Multi-browser means a website will work in several web browsers like Safari. Chrome. Firefox. Internet Explorer.
+
+## Fully Responsive
+Works perfectly on all screen sizes and mobile devices.
 
 And many other features of this WordPress Movie Theme awaiting your discovery!
 
