@@ -2,7 +2,7 @@
 
 MovieAsap is a professional and fully responsive [WordPress Movie Theme](https://themeluxury.com/themes/movieasap-wordpress-movie-theme/). This movie template is created using a Bootstrap Framework 4 with a modern design interface that will make your website powerful and attractive.
 
-<p align="center"><a href="https://themeluxury.com" target="_blank"><img src="https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/main-preview.jpg"></a></p>
+![MovieAsap Main Preview](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/main-preview.jpg "MovieAsap Main Preview")
 
 You can easily use this film template for your movie projects and unlimited color changes. Besides, our powerful Theme Options, which can help you customize this cinema template without having to touch a single line of code, will make your movie website powerful, engaging, and easy to use.
 
@@ -17,34 +17,52 @@ Below are the outstanding features of this cinema template. Please take a moment
 ## Modern Design
 A clean, modern and professional interface will make your Movie site powerful.
 
-![Modern Design](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/modern-design.png "MovieAsap Modern Design")
+![MovieAsap Modern Design](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/modern-design.png "MovieAsap Modern Design")
 
 ## Easy One-Click Installation
 Start your site quickly by using our built-in Setup Wizard to make your website look exactly the same as demo version and then customize it to your requirements easily.
 
+![MovieAsap Easy One-Click Installation](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/onclick-install.png "MovieAsap Easy One-Click Installation")
+
 ## Fully Responsive
 Works perfectly on all screen sizes and mobile devices.
+
+![MovieAsap Fully Responsive](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/fully-responsive.png "MovieAsap Fully Responsive")
 
 ## Automatic Theme Updates
 Stay up to date with the latest MovieAsap version automatically.
 
+![MovieAsap Automatic Theme Updates](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/movieasap-automatic-theme-updates.png "MovieAsap Automatic Theme Updates")
+
 ## Built-in Live Search
 Search Movies and TV Shows Instantly.
+
+![MovieAsap Built-in Live Search](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/live-search.png "MovieAsap Built-in Live Search")
 
 ## Image Lazy Loading
 Load images super fast with built-in Lazy Loading.
 
+![MovieAsap Image Lazy Loading](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/lazy-loading-for-images.png "MovieAsap Image Lazy Loading")
+
 ## Favorites
 Allow user to add favorite movies. You know, the favorite is an indispensable feature with a WordPress Movie Theme.
+
+![MovieAsap Favorites](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/favorites.png "MovieAsap Favorites")
 
 ## A-Z Listing
 Allow filtering Movies and TV Shows by alphabet easily.
 
+![MovieAsap A-Z Listing](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/az-listing.png "MovieAsap A-Z Listing")
+
 ## IMDb & TMDb Import Integrated
 Automatically generate data from TMDb and TMDb. Instead of adding data manually, our WordPress Movie Theme will help you add data automatically quickly.
 
+![MovieAsap IMDb & TMDb Import Integrated](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/imdb-tmdb-import-integrated.png "MovieAsap IMDb & TMDb Import Integrated")
+
 ## Powerful Theme Options
 Easily customize the theme as you want.
+
+![MovieAsap Powerful Theme Options](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/more-powerful-features.png "MovieAsap Powerful Theme Options")
 
 ## Theme Customizer
 Easily change your website design in real time.
@@ -81,7 +99,7 @@ Multi-browser means a website will work in several web browsers like Safari. Chr
 
 And many other features of this WordPress Movie Theme awaiting your discovery!
 
-MovieAsap Features:
+**MovieAsap Features:**
 + 3+ Demo Variations and More Adding Soon
 + One Click Demo Data Import
 + Translation Ready
@@ -109,7 +127,7 @@ MovieAsap Features:
 + Easily Customizable
 + Online Documentation
 
-What do you get?
+**What do you get?**
 + Theme source code
 + Child theme
 + PSD Files
