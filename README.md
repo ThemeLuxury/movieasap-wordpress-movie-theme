@@ -2,12 +2,12 @@
 
 MovieAsap is a professional and fully responsive WordPress Movie Theme. This movie template is created using a Bootstrap Framework 4 with a modern design interface that will make your website powerful and attractive.
 
-<p align="center"><a href="https://themeluxury.com" target="_blank"><img src="https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/main-preview.png"></a></p>
+<p align="center"><a href="https://themeluxury.com" target="_blank"><img src="https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/main-preview.jpg"></a></p>
 
 You can easily use this film template for your movie projects and unlimited color changes. Besides, our powerful Theme Options, which can help you customize this cinema template without having to touch a single line of code, will make your movie website powerful, engaging, and easy to use.
 
-**[Try Live Demo](https://demo.themeluxury.com/movieasap/)**
-**[Download Now](https://themeluxury.com/themes/movieasap-wordpress-movie-theme/)**
+<p>**[Try Live Demo](https://demo.themeluxury.com/movieasap/)**</p>
+<p>**[Download Now](https://themeluxury.com/themes/movieasap-wordpress-movie-theme/)**</p>
 
 MovieAsap is one of our Premium WordPress Themes with clean code and well-documented ease of understanding, which will save you your time building a complete website in just a few clicks. And then, you will have a ready-to-use WordPress Movie Theme website.
 
