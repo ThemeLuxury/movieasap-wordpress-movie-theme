@@ -17,6 +17,8 @@ Below are the outstanding features of this cinema template. Please take a moment
 ## Modern Design
 A clean, modern and professional interface will make your Movie site powerful.
 
+![Modern Design](https://raw.githubusercontent.com/themeluxury/art/master/movieasap-wordpress-movie-theme/modern-design.png "MovieAsap Modern Design")
+
 ## Easy One-Click Installation
 Start your site quickly by using our built-in Setup Wizard to make your website look exactly the same as demo version and then customize it to your requirements easily.
 
